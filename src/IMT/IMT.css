@@ -1,0 +1,28 @@
+.Imt{
+display: flex;
+flex-wrap: wrap;
+margin: 0 auto;
+width: 100%;
+justify-content: space-between;
+
+}
+.divImt{
+    margin: 0 auto;
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+
+}
+.imtInfo{
+    text-align: center;
+    width: 40%;
+    font-size: 2rem;
+    border: 1px solid black
+}
+.speedometer{
+    margin: 0 auto;
+    width:100%;
+}
+.divSpeedometer{
+    margin: 0 auto;
+}

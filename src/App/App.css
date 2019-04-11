@@ -1,0 +1,8 @@
+.App{
+    height: 100vh;
+    margin: 0 auto;
+    max-width: 1024px;
+    min-width: 320px;
+    border:solid 2px black;
+    overflow: hidden;
+}
